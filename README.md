@@ -17,7 +17,6 @@
      <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=handsome0514&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
    </div>
  </div>
- <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
  <div align="center">
    <div align="center">
      <img src="https://github-profile-trophy.vercel.app/?username=handsome0514&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
