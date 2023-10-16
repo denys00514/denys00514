@@ -10,8 +10,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=handsome0514&locale=en&hide_title=false&layout=compact&count_private=true&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=handsome0514&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true&order=3" height="200" alt="streak graph"  />
+  <div align="center">  
+    <img  align="right" height="380px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsome0514&langs_count=20&layout=compact&exclude_repo=AI-Image-Caption-Bot,School-Donation-Analysis,AI-Music-Generation,homemade-machine-learning&hide_border=true&theme=github_dark&PAT_1" alt="Matheus Maia Alvarez github stats" />
+    <div align="left">
+     <img height="195px" width="55%" src="https://github-readme-stats.vercel.app/api?username=handsome0514&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&hide_border=true&PAT_1&custom_title=Stats" alt="dandytopstar's github stats" /> 
+     <img height="195px" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=handsome0514&theme=github_dark&hide_border=true&PAT_1" alt="Matheus Maia Alvarez github stats" />
+   </div>
+ </div>
+ <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif" />
+ <div align="center">
+   <div align="center">
+     <img src="https://github-profile-trophy.vercel.app/?username=handsome0514&theme=matrix&no-bg=true&no-frame=true&column=2&title=LongTimeUser,AncientUser" />
+     <img src="https://github-profile-trophy.vercel.app/?username=handsome0514&theme=matrix&no-bg=true&no-frame=true&column=3&title=MultiLanguage,Commits,Organizations" />
+   </div>
+   <img align="center" src="https://github-profile-trophy.vercel.app/?username=handsome05140&theme=matrix&no-bg=true&no-frame=true&row=1&column=6&title=Followers,PullRequest,Repositories,Issues,Stars,Reviews" />
+ </div>
 </div>
 
 ###
