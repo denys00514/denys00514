@@ -1,5 +1,5 @@
 <h1 align="center">
-  Creative Senior Mobile App Developer (iOS & Android)
+  Mobile Developer (iOS & Android)
 </h1>
 
 ###
